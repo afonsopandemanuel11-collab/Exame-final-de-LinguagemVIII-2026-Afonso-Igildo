@@ -1,0 +1,11 @@
+﻿SGCA — Sistema de Gestão de Cooperativa Agrícola;IPUKV 2025/2026
+Data;21/06/2026 04:07
+Utilizador;Administrador
+
+Nome;Nº Sócio;Bilhete ID;Telefone;Email;Quota (%);Data Adesão;Activo
+António Mateus Lopes;COOP-001;BI001234;923111001;antonio@exemplo.ao;25,00;15/01/2022 00:00:00;True
+Domingos Luvualu Neto;COOP-005;BI001238;923111005;domingos@exemplo.ao;10,00;05/03/2022 00:00:00;True
+Filomena Pinto Kassoma;COOP-006;BI001239;923111006;filomena@exemplo.ao;10,00;20/03/2022 00:00:00;True
+Maria das Graças Silva;COOP-002;BI001235;923111002;maria@exemplo.ao;20,00;15/01/2022 00:00:00;True
+Pedro Augusto Mbemba;COOP-003;BI001236;923111003;pedro@exemplo.ao;20,00;01/02/2022 00:00:00;True
+Rosa Esperança Teca;COOP-004;BI001237;923111004;rosa@exemplo.ao;15,00;10/02/2022 00:00:00;True

@@ -1,0 +1,13 @@
+## Ignore Visual Studio temp files, build results, and settings
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
